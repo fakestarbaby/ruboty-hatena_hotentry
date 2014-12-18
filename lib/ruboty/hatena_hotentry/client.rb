@@ -5,7 +5,7 @@ module Ruboty
   module HatenaHotentry
     class Client
       URL_FOR_ALL = "http://b.hatena.ne.jp/hotentry?mode=rss&sort=popular"
-      URL_FOR_CATEGORY = "http://b.hatena.ne.jp/hotentry/%{category}.rss&sort=popular"
+      URL_FOR_CATEGORY = "http://b.hatena.ne.jp/hotentry/%{category}.rss?&sort=popular"
 
       NAMESPACES = {
         "rss" => "http://purl.org/rss/1.0/",

@@ -13,7 +13,7 @@ ruboty hotentry {all|social|economics|life|knowledge|it|fun|entertainment|game}
 
 ## Demo
 
-ここにgitあにめ
+ここにgifあにめ
 
 
 ## Installation

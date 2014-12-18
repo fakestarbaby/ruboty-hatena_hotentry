@@ -2,6 +2,8 @@ Ruboty::HatenaHotentry
 ==========
 
 ## Overview
+This plug-in is for [Ruboty](https://github.com/r7kamura/ruboty).
+Refer Hotentry of [HatenaBookmark](http://b.hatena.ne.jp/).
 
 
 
@@ -13,7 +15,7 @@ ruboty hotentry {all|social|economics|life|knowledge|it|fun|entertainment|game}
 
 ## Demo
 
-ここにgifあにめ
+Coming soon...
 
 
 ## Installation

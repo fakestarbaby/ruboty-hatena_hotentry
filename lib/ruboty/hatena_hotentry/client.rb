@@ -25,7 +25,7 @@ module Ruboty
       def get
         begin
           url = url(@options[:category])
-          parse(open(url).read)
+          parse(open(url, "User-Agent" => "User-Agent: ruboty-hatena_hotentry").read)
         rescue => exception
           Ruboty.logger.error("Error: #{self}##{__method__} - #{exception}")
           nil
